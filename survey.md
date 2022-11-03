@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: blue
+Favorite food: pizza
+Favorite musician/band:ishay rivo 
+Favorite movie: harry potter
+Requested grade in the course:95 
